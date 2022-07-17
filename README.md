@@ -5,6 +5,6 @@ Je suis Romain et j'habite en France. Ingénieur industriel de formation, je me 
 Here are some ideas to get you started:
 
 - 💬 Romain - 25 ans - Lyon - Ingénieur
-- 🔭 je travaille actuellement dans une entreprise industrielle ou je suis ingénieur.
+- 🔭 je travaille actuellement dans une entreprise industrielle où je suis ingénieur méthodes
 - 📫 Possiblité de me joindre via Linkedin ou Instagram !
-- ⚡ Fun fact: passionné de football et arbitre FFF.
+- ⚡ Fun fact : passionné de sport et arbitre FFF.
