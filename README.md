@@ -4,7 +4,7 @@ Je suis Romain et j'habite en France. Ingénieur industriel de formation, je me 
 
 Je propose aujourd'hui plusieurs offres de prestation :
 - Expertise en Lean Management & Simulation des flux (avec le logiciel FLEXSIM ou ARENA) dans le but de tester vos différents scénarios d'implantation de production.
-- Expertise sur la partie digitalisation des processus (création d'outil sur mesure / tableau de bord / analyse de données) 
+- Expertise sur la partie digitalisation des processus (création d'outil sur mesure / tableau de bord / analyse de données / automatisation des tâches) 
 
 Here are some ideas to get you started:
 
